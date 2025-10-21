@@ -1,48 +1,57 @@
-# 👋 Hi, I'm Md Alamgeer Kabir  
-
-🚀 **Web Developer | WordPress Expert | Wix Designer | Digital Marketer**  
-
-Welcome to my GitHub! I build responsive, modern, and user-friendly websites — helping brands and businesses grow online.  
+<h1 align="center">Hi 👋, I'm Md Alamgeer Kabir</h1>
+<h3 align="center">🌐 Web Developer | WordPress Expert | Digital Marketer</h3>
 
 ---
 
-### 🛠️ **Skills & Tools**
-- 💻 **Frontend:** HTML, CSS, JavaScript  
-- ⚙️ **CMS Platforms:** WordPress, Wix  
-- 📈 **Digital Marketing:** SEO, Social Media Marketing, Google Ads  
-- 🧠 **Other Tools:** Canva, Figma, Git, VS Code  
+### 👨‍💻 About Me
+💡 I’m a passionate **Website Developer** skilled in **HTML, CSS, JavaScript, WordPress, and Wixsite**.  
+🎯 I focus on building responsive, clean, and professional websites that create impact.  
+🚀 I also help brands grow through **SEO, content strategy, and digital marketing**.  
+🌱 Currently learning: **React.js** and **Next.js**  
+💬 Ask me about: **Website Development, WordPress, SEO, and Online Branding**
 
 ---
 
-### 🌍 **About Me**
-I’m passionate about creating fast, elegant websites that provide great user experience.  
-I focus on both **design & functionality**, ensuring every project is professional, mobile-friendly, and SEO-optimized.
-
-📍 Based in **Bangladesh**  
-💬 Open to freelance projects & collaborations  
-
----
-
-### 📊 **GitHub Stats**
-![Alamgeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 **Connect With Me**
+### 🛠️ Tech Stack
 <p align="left">
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma,vscode,github,git,python,react" />
 </p>
 
 ---
 
-⭐ **"Code with creativity. Design with purpose."**  
+### 🌟 Featured Projects
+- 🧩 **Personal Portfolio Website** – A modern and responsive personal portfolio showcasing my work and skills.  
+- 🛍️ **E-commerce WordPress Store** – Custom-built online shop with SEO optimization.  
+- 📰 **Blog Website** – A dynamic and SEO-friendly blog using WordPress and custom CSS.  
+- 💼 **Business Landing Page** – High-converting business website with marketing integration.
+
+*(More projects coming soon!)*
+
+---
+
+### 🏆 Achievements & Goals
+✅ Completed 50+ web projects for clients and practice.  
+🏅 Skilled in front-end design and user experience.  
+🎯 Goal for 2025: Build a full-stack project using **Next.js + MongoDB**.  
+🌎 Dream: To become a professional **Freelance Web Developer** and **Tech Educator**.
+
+---
+
+### 📘 Learning Journey
+Currently exploring:
+- Advanced **JavaScript ES6+**
+- **React.js Components & Hooks**
+- **WordPress Plugin Development**
+- **Digital Marketing Automation**
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="mailto:mdalamgeerkabir2175L@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Quote I Follow
+> “Great websites aren’t built overnight — they’re built line by line, with passion and patience.” 💻✨
